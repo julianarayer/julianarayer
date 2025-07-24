@@ -1,3 +1,1 @@
-<img src="https://raw.githubusercontent.com/julianarayer/julianarayer/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/julianarayer/julianarayer/blob/output/github-contribution-grid-snake.svg)
