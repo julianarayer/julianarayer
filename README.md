@@ -31,10 +31,4 @@ Minha transição de carreira uniu minha bagagem em gestão com ferramentas como
 
 ---
 
-### 👾 
 
-<img>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianarayer/julianarayer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianarayer/julianarayer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julianarayer/julianarayer/output/pacman-contribution-graph.svg">
-</img>
