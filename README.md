@@ -8,7 +8,7 @@ Minha transição de carreira uniu minha bagagem em gestão com ferramentas como
 
 ---
 
-### 💻 Sobre mim
+### Sobre mim
 
 - 🎓 Formada em Administração pela UFRGS
 - 🤖 Dados e Inteligência Artificial
