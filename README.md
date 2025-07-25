@@ -18,7 +18,7 @@ Minha transição de carreira uniu minha bagagem em gestão com ferramentas como
 
 ---
 
-### 🌐 Contato
+### Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/juliana-kirschnick" target="_blank">
