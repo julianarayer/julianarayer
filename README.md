@@ -10,11 +10,11 @@ Minha transição de carreira uniu minha bagagem em gestão com ferramentas como
 
 ### Sobre mim
 
-- 🎓 Formada em Administração pela UFRGS
-- 🤖 Dados e Inteligência Artificial
-- 📊 Experiência com SQL, R, Python, Power BI e ETL
-- 🧠 Apaixonada por soluções estratégicas
-- 🐝 Criativa e analítica 
+- 💜 Formada em Administração pela UFRGS
+- 👾 Dados e Inteligência Artificial
+- 💜 Experiência com SQL, R, Python, Power BI e ETL
+- 👾 Apaixonada por soluções estratégicas
+- 💜 Criativa e analítica 
 
 ---
 
